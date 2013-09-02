@@ -8,8 +8,7 @@ Intended for education, entertainment and practice<sup>1</sup>.
 [list]: https://github.com/rgrp/bad-data/issues
 [explorer]: http://explorer.okfnlabs.org/
 [csv]: http://data.okfn.org/standards/csv
-
-<sup>1</sup><small>this was originally started as source of good practice data for [Data Explorer][explorer]</small>
+[new]: https://github.com/rgrp/bad-data/issues/new
 
 <a id="contribute" name="contribute"></a>
 
@@ -18,7 +17,7 @@ Intended for education, entertainment and practice<sup>1</sup>.
 Preference for examples of tabular data and especially for [CSV][csv] but all
 forms of bad data accepted!
 
-[Just open an issue &raquo;](http://explorer.okfnlabs.org/)
+[Just open an issue &raquo;][new]
 
 Please include:
 
@@ -31,4 +30,8 @@ Bonus points:
 * Upload a the sample data file to the data directory (fork and pull this repo!)
   * If the file is more than ~100kb please just provide a chopped down version
     illustrating the main "badness"
+
+----
+
+<sup>1</sup> <small>this was originally started as source of good practice data for [Data Explorer][explorer]</small>
 
