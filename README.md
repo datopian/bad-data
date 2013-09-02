@@ -1,15 +1,15 @@
 Examples of "bad" data - poorly structured, formatted, mangled or just plain ugly data.
 
-Intended for education, entertainment and practice [^1].
+Intended for education, entertainment and practice<sup>*</sup>.
 
-<h3><a href="https://github.com/rgrp/bad-data/issues">Here's the current list of bad data &raquo;</a></h3>
+* [Here's the current bad data list &raquo;][list]
+* [Contributions wanted and welcome &raquo;](#contribute)
 
-[Contributions wanted and welcome &raquo;](#contribute)!
-
+[list]: https://github.com/rgrp/bad-data/issues
 [explorer]: http://explorer.okfnlabs.org/
 [csv]: http://data.okfn.org/standards/csv
 
-[^1]: this was originally started as source of good practice data for [Data Explorer][explorer]
+<sup>*</sup> this was originally started as source of good practice data for [Data Explorer][explorer]
 
 <a id="contribute" name="contribute"></a>
 
