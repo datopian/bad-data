@@ -1,6 +1,6 @@
 Examples of "bad" data - poorly structured, formatted, mangled or just plain ugly data.
 
-Intended for education, entertainment and practice<sup>*</sup>.
+Intended for education, entertainment and practice<sup>1</sup>.
 
 * [Here's the current bad data list &raquo;][list]
 * [Contributions wanted and welcome &raquo;](#contribute)
@@ -9,7 +9,7 @@ Intended for education, entertainment and practice<sup>*</sup>.
 [explorer]: http://explorer.okfnlabs.org/
 [csv]: http://data.okfn.org/standards/csv
 
-<sup>*</sup> this was originally started as source of good practice data for [Data Explorer][explorer]
+<sup>1</sup><small>this was originally started as source of good practice data for [Data Explorer][explorer]</small>
 
 <a id="contribute" name="contribute"></a>
 
