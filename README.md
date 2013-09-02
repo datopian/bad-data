@@ -5,10 +5,14 @@ Intended for education, entertainment and practice<sup>1</sup>.
 * [Here's the current bad data list &raquo;][list]
 * [Contributions wanted and welcome &raquo;](#contribute)
 
+Want to see "bad data" fixed? Check out the related ["Data Issues"
+project][dataissues] focused on reporting and fixing issues with (open) data.
+
 [list]: https://github.com/rgrp/bad-data/issues
 [explorer]: http://explorer.okfnlabs.org/
 [csv]: http://data.okfn.org/standards/csv
 [new]: https://github.com/rgrp/bad-data/issues/new
+[dataissues]: https://github.com/datasets/issues
 
 <a id="contribute" name="contribute"></a>
 
