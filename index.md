@@ -1,24 +1,22 @@
 ---
 layout: default
+title: Bad Data
+subtitle: Examples of poorly structured, formatted,<br />mangled or just plain ugly data
 ---
 
-Examples of "bad" data - poorly structured, formatted, mangled or just plain ugly data.
-
-Intended for education, entertainment and practice[^1].
+Bad Data is site listing real-world examples of poorly structured, formatted, mangled or just plain ugly data. It exists to instruct, entertain and provide material for practice (the repo in fact began as a place to keep practice data for [Data Explorer][explorer]).
 
 * [Here's the current bad data list &raquo;][list]
-* [Contributions wanted and welcome &raquo;](#contribute)
+* Contributions wanted and welcome &ndash; see below
 
 Want to see "bad data" fixed? Check out the related ["Data Issues"
 project][dataissues] focused on reporting and fixing issues with (open) data.
 
-[^1]: this was originally started as source of good practice data for [Data Explorer][explorer]
 
-
-[list]: https://github.com/rgrp/bad-data/issues
+[list]: https://github.com/okfn/bad-data/issues
 [explorer]: http://explorer.okfnlabs.org/
 [csv]: http://data.okfn.org/standards/csv
-[new]: https://github.com/rgrp/bad-data/issues/new
+[new]: https://github.com/okfn/bad-data/issues/new
 [dataissues]: https://github.com/datasets/issues
 
 ## How to contribute
@@ -30,13 +28,12 @@ forms of bad data accepted!
 
 Please include:
 
-* Link to data file (if that is impossible a screenshot is possible - please upload)
+* Data source (link and info)
 * File format
-* Short description of what's wrong (bullet points)
+* A description of what's wrong
 
-Bonus points:
+Optional (but preferred):
 
-* Upload a the sample data file to the data directory (fork and pull this repo!)
-  * If the file is more than ~100kb please just provide a chopped down version
-    illustrating the main "badness"
+* Screenshot of the data
+* Copy of the data (if the file is more than ~100kb please provide a chopped down version illustrating the main "badness"). Please upload a the sample data file to the data directory (fork and pull this repo!)
 
