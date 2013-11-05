@@ -25,7 +25,7 @@ project][dataissues] focused on reporting and fixing issues with (open) data.
   <ul>
   {% for page in site.pages %}
   {% if page.categories == 'examples' %}
-    <li><h4><a href="{{page.url | replace:'index.html',''}}">{{page.title}}</a></h4></li>
+    <li><h4><a href="{{site.url}}{{page.url | replace:'index.html',''}}">{{page.title}}</a></h4></li>
   {% endif %}
   {% endfor %}
   </ul>
