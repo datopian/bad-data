@@ -19,6 +19,18 @@ project][dataissues] focused on reporting and fixing issues with (open) data.
 [new]: https://github.com/okfn/bad-data/issues/new
 [dataissues]: https://github.com/datasets/issues
 
+## Bad Data Examples
+
+<div class="results">
+  <ul>
+  {% for page in site.pages %}
+  {% if page.categories == 'examples' %}
+    <li><h4><a href="{{page.url | replace:'index.html',''}}">{{page.title}}</a></h4></li>
+  {% endif %}
+  {% endfor %}
+  </ul>
+</div>
+
 ## How to contribute
 
 Preference for examples of tabular data and especially for [CSV][csv] but all
