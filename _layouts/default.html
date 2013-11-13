@@ -13,11 +13,7 @@
 
   <link href="//netdna.bootstrapcdn.com/bootstrap/2.3.2/css/bootstrap.min.css" rel="stylesheet" />
   <link rel="stylesheet" href="http://dataprotocols.org/css/style.css" />
-  <style type="text/css">
-    .navbar ul.nav.pull-right {
-      margin-right: 42px;
-    }
-  </style>
+  <link rel="stylesheet" href="{{site.baseurl}}/css/style.css" />
 </head>
 <body>
 <!-- OKF Panel -->
@@ -42,11 +38,15 @@
       <ul class="nav pull-right">
         <li class="divider-vertical"></li>
         <li>
+          <a href="{{site.baseurl}}/add">Submit an Example</a>
+        </li>
+        <li class="divider-vertical"></li>
+        <li>
           <a href="http://lists.okfn.org/mailman/listinfo/okfn-labs" title="Join the discussion">Mailing List</a>
         </li>
         <li class="divider-vertical"></li>
         <li>
-          <a href="https://github.com/okfn/bad-data" title="Fork and pull to submit new material or corrections">Repo</a>
+          <a href="{{site.sourcecode}}" title="Fork and pull to submit new material or corrections">Repo</a>
         </li>
         <li class="divider-vertical"></li>
         <li>
@@ -80,12 +80,17 @@
       This service is run by the <a href="http://okfnlabs.org">Open
         Knowledge Foundation Labs</a>
       &ndash;
-      <a href="http://github.com/okfn/bad-data/">Source Code</a>
+      <a href="{{site.sourcecode}}">Source Code</a>
     </p>
     <p>
       <a href="http://opendefinition.org/ossd/" title="Open Online Software Service">
         <img src="http://assets.okfn.org/images/ok_buttons/os_80x15_orange_grey.png" alt="" border="" />
       </a>
+      <a href="http://opendefinition.org/" title="Open Content">
+        <img src="http://assets.okfn.org/images/ok_buttons/oc_80x15_blue.png" alt="" border="" />
+      </a>
+      &ndash;
+      <a href="http://creativecommons.org/licenses/by/3.0/">Content Licensed under a CC Attribution</a>
     </p>
   </div>
 </footer>
