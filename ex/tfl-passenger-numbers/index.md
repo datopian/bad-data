@@ -5,6 +5,7 @@ dataformat: CSV
 datapublisher: Greater London Authority London Datastore
 dataurl: http://data.london.gov.uk/datafiles/transport/tfl_passengers.csv
 cached: https://raw.github.com/rgrp/bad-data/master/data/tfl_passengers.csv
+image: https://f.cloud.github.com/assets/180658/1532178/b08ef4d2-4c72-11e3-913a-9fcd763ae346.png
 author: Rufus Pollock
 authorurl: https://okfn.org/members/rgrp
 categories: examples
