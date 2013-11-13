@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Bad Data
 subtitle: Real-world examples of how <strong>not</strong> to do data
 ---

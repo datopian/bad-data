@@ -2,5 +2,40 @@
 layout: default
 ---
 
-{{content}}
+<div class="row">
+  <div class="span6 offset3">
+  </div>
+</div>
+
+<div class="row">
+  <div class="span7">
+    {% if page.image %}
+    <a href="{{page.dataurl}}" target="_blank"><img src="{{page.image}}" alt="" /></a>
+    {% endif %}
+    {% if page.dataformat == 'CSV' %}
+    <iframe src="http://datapipes.okfnlabs.org/csv/html?url={{page.dataurl | cgi_escape}}" width="100%" style="min-height: 600px;"></iframe>
+    <p><small><a href="http://datapipes.okfnlabs.org/">CSV to HTML powered by DataPipes</a></small></p>
+    {% endif %}
+  </div>
+  <div class="span5">
+    <table class="meta table table-striped">
+      <tr>
+        <td><i class="fa fa-cloud-download"></i></td>
+        <td><a href="{{page.dataurl}}">{{page.dataurl}}</a></td>
+      </tr>
+      <tr>
+        <td><i class="fa fa-user"></i></td>
+        <td>
+          {% if page.publisherurl %}
+            <a href="{{page.publisherurl}}">{{page.datapublisher}}</a>
+          {% else %}
+            {{page.datapublisher}}
+          {% endif %}
+        </td>
+      </tr>
+    </table>
+
+    {{content}}
+  </div>
+</div>
 
