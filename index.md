@@ -24,8 +24,8 @@ As a side-product it also provides a source of good practice material for buddin
   {% capture url %}{{site.baseurl}}{{page.url | replace:'index.html',''}}{% endcapture %}
   <li class="span6">
     <div class="thumbnail">
-      <a href="{{url}}"><img src="{{page.image}}" /></a>
       <h3><a href="{{url}}">{{page.title}}</a></h3>
+      <a href="{{url}}"><img src="{{page.image}}" /></a>
     </div>
   </div>
   {% endif %}
