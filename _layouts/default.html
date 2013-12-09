@@ -3,10 +3,10 @@
 <head>
   <meta charset="utf-8">
   <title> 
-    Bad Data - Open Knowledge Foundation
+    {{site.title}} - Open Knowledge Foundation
   </title>
   <meta name="author" content="Open Knowledge Foundation Labs" />
-  <meta name="description" content="Bad Data Examples" />
+  <meta name="description" content="{{site.title}}" />
 
   <!-- okf ribbon -->
   <link rel="stylesheet" href="http://assets.okfn.org/themes/okfn/okf-panel.css"/>
@@ -77,7 +77,7 @@
       This service is run by the <a href="http://okfnlabs.org">Open
         Knowledge Foundation Labs</a>
       &ndash;
-      <a href="{{site.sourcecode}}">Source Code</a>
+      <a href="{{site.github}}">Source Code</a>
     </p>
     <p>
       <a href="http://opendefinition.org/ossd/" title="Open Online Software Service">
@@ -97,7 +97,7 @@
 <script src="http://assets.okfn.org/themes/okfn/okf-panel.js" type="text/javascript"></script>
 <script type="text/javascript">
   var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-33874954-3']);
+  _gaq.push(['_setAccount', '{{site.googleanalytics}}']);
   _gaq.push(['_trackPageview']);
 
   (function() {
