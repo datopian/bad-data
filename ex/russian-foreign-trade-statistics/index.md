@@ -4,7 +4,7 @@ categories: examples
 title: "Russian foreign trade statistics"
 dataformat: "DBF (dBASE)"
 datapublisher: Russian Federal Customs Service
-dataurl: http://stat.customs.ru/apex/f?p=201:3:822234424961570::NO:::
+dataurl: "http://stat.customs.ru/apex/f?p=201:3:822234424961570::NO:::"
 author: Ivan Begtin
 authorurl: http://infoculture.ru/
 image: http://i.imgur.com/KNoJh6O.png
