@@ -23,10 +23,10 @@ image: https://f.cloud.github.com/assets/1205539/1641430/510e885e-5854-11e3-9adf
 
 # Screenshots
 ## The data
-https://f.cloud.github.com/assets/1205539/1641430/510e885e-5854-11e3-9adf-f0c57f49fc00.png
+![The data](https://f.cloud.github.com/assets/1205539/1641430/510e885e-5854-11e3-9adf-f0c57f49fc00.png)
 
 ## The Excel credentials prompt
-https://f.cloud.github.com/assets/1205539/1641383/f0a262b6-5852-11e3-86f3-954097c37575.png
+![The Excel credentials prompt](https://f.cloud.github.com/assets/1205539/1641383/f0a262b6-5852-11e3-86f3-954097c37575.png)
 
-## Date of last update
-https://f.cloud.github.com/assets/1205539/1641432/64eb3bf6-5854-11e3-9e38-b1c5547bf0ef.png
+## Last updated 3 years ago
+![Last updated 3 years ago](https://f.cloud.github.com/assets/1205539/1641432/64eb3bf6-5854-11e3-9e38-b1c5547bf0ef.png)
