@@ -24,7 +24,8 @@ First sentence or two should be a succinct sumamary of what's wrong. You can des
 
 # Screenshots
 ## The data
-[Page 1](http://i.imgur.com/4kXSjO1.png)
+![Page 1](http://i.imgur.com/4kXSjO1.png)
 
-## File live in this page
-[Website](http://i.imgur.com/Sou57Kx.png)
+## File lives in this page
+![Website](http://www.sat.gob.mx/sitio_internet/informacion_fiscal/reforma_fiscal/157_17222.html)
+![](http://i.imgur.com/Sou57Kx.png)
