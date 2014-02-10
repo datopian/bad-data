@@ -25,9 +25,9 @@ As a side-product it also provides a source of good practice material for buddin
   <li class="span6">
     <div class="thumbnail">
       <h3><a href="{{url}}">{{page.title}}</a></h3>
-      <a href="{{url}}"><img src="{{page.image}}" /></a>
+      {% if page.image %}<a href="{{url}}"><img src="{{page.image}}" alt="" /></a>{% endif %}
     </div>
-  </div>
+  </li>
   {% endif %}
   {% endfor %}
 </ul>
