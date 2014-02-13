@@ -4,7 +4,7 @@ title: Bad Data
 subtitle: Real-world examples of how <strong>not</strong> to do data
 ---
 
-Bad Data is site providing **real-world examples** of how **not** to prepare or provide data. It showcases the **poorly structured**, the **mis-formatted**, or the just plain ugly.
+Bad Data is a site providing **real-world examples** of how **not** to prepare or provide data. It showcases the **poorly structured**, the **mis-formatted**, or the just plain ugly.
 
 Its primary purpose is to **educate** &ndash; though there may also be some aspect of entertainment.
 
