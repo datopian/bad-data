@@ -10,7 +10,7 @@ layout: default
 <div class="row">
   <div class="span7">
     {% if page.image %}
-    <a href="{{page.dataurl}}" target="_blank"><img src="{{page.image}}" alt="" /></a>
+    <a href="{{page.dataurl}}" target="_blank"><img src="{{page.image}}" alt="{{page.title}}" /></a>
     {% endif %}
     {% if page.dataformat == 'CSV' %}
     <iframe src="http://datapipes.okfnlabs.org/csv/html?url={{page.dataurl | cgi_escape}}" width="100%" style="min-height: 600px;"></iframe>
