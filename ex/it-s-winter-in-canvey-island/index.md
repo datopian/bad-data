@@ -8,7 +8,7 @@ dataurl: http://www.electoralcommission.org.uk/our-work/our-research/electoral-d
 author: Giacecco
 authorurl: http://twitter.com/giacecco
 authorimage: manga-avatar.png
-image: screenshot.png
+image: http://okfnlabs.org/bad-data/ex/it-s-winter-in-canvey-island/screenshot.png
 ---
 
 It's winter in Canvey Island!
