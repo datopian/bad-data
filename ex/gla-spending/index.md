@@ -4,7 +4,7 @@ categories: examples
 title: Greater London Authority Spending
 dataformat: CSV
 datapublisher: Greater London Authority
-dataurl: http://static.london.gov.uk/gla/expenditure/docs/2010-11-P13-500.csv
+dataurl: https://www.london.gov.uk/sites/default/files/gla_migrate_files_destination/Mayor%27s%20250%20Report%20-%202013-14%20-%20P1%20%20-%20Combined.csv
 author: Rufus Pollock
 authorurl: http://okfn.org/members/rgrp
 ---
@@ -35,4 +35,18 @@ Additional specific errors:
 * Dates vary substantially in format from "16 Mar 2011" in [this file](http://static.london.gov.uk/gla/expenditure/docs/2010-11-P13-500.csv) to "21.01.2010" in [January 2010 data](http://legacy.london.gov.uk/gla/expenditure/docs/january_2010.csv)
 * Use of (978) to indicate negative amounts rather than -978
 * Repeated data in [2012-13-P4 file (HTML view on datapipes)](http://datapipes.okfnlabs.org/csv/html/?url=http://static.london.gov.uk/gla/expenditure/docs/2012-13-P4-250.csv#L870)
+
+## Update
+
+2016-04-06
+
+The original web page now 404s:
+
+<http://www.london.gov.uk/mayor-assembly/gla/spending-money-wisely/budget-expenditure-charges/expenditure-over-250>
+
+And all the raw spending files have moved without redirects so they break ... e.g. this no longer works:
+
+<http://static.london.gov.uk/gla/expenditure/docs/2010-11-P13-500.csv>
+
+The new web page only list files back to 2013 and it is not clear where the earlier files are located.
 
