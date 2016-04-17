@@ -20,7 +20,7 @@ As a side-product it also provides a source of good practice material for buddin
 
 <ul class="thumbnails examples-list">
   {% for page in site.pages %}
-  {% if page.categories == 'examples' and page.url != '/ex/template/index.html' %}
+  {% if page.categories == 'examples' and page.url != '/ex/template/index.md' %}
   {% capture url %}{{site.baseurl}}{{page.url | replace:'index.html',''}}{% endcapture %}
   <li class="span6">
     <div class="thumbnail">
