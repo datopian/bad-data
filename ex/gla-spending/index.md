@@ -36,11 +36,11 @@ Additional specific errors:
 
 The original web page now 404s:
 
-<http://www.london.gov.uk/mayor-assembly/gla/spending-money-wisely/budget-expenditure-charges/expenditure-over-250>
+http://www.london.gov.uk/mayor-assembly/gla/spending-money-wisely/budget-expenditure-charges/expenditure-over-250
 
 And all the raw spending files have moved without redirects so they break ... e.g. this no longer works:
 
-<http://static.london.gov.uk/gla/expenditure/docs/2010-11-P13-500.csv>
+http://static.london.gov.uk/gla/expenditure/docs/2010-11-P13-500.csv
 
 The new web page only list files back to 2013 and it is not clear where the earlier files are located.
 

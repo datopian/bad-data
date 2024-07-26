@@ -14,7 +14,7 @@ This dataset of long-term employment is a wonderful example of an "ASCII Spreads
 
 It also is a good example of a data structure (as opposed to format) which is "human readable" but not [machine readable][mr].
 
-You can find a cleaned version of the data at <https://github.com/datasets/employment-us> and the clean up script is at <https://github.com/datasets/employment-us/blob/master/scripts/process.py>
+You can find a cleaned version of the data at https://github.com/datasets/employment-us and the clean up script is at https://github.com/datasets/employment-us/blob/master/scripts/process.py
 
 [mr]: http://okfn.org/opendata/glossary/
 
