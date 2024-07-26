@@ -4,15 +4,22 @@
 
 Bad Data is a site providing **real-world examples** of how **not** to prepare or provide data. It showcases the **poorly structured**, the **mis-formatted**, or the just plain ugly.
 
-Its primary purpose is to **educate** &ndash; though there may also be some aspect of entertainment.
 
-As a side-product it also provides a source of good practice material for budding data wranglers (the repo in fact began as a place to keep practice data for [Data Explorer][explorer]).
+Its primary purpose is to serve as an **educational** tool for governments and other organizations &ndash; though there may also be some aspect of entertainment.
+
+It is also a good source of practice material for budding data wranglers—those tasked with cleaning and transforming data (in fact the repo in fact began as a place to keep practice data for [Data Explorer][explorer]).
 
 [New examples are wanted and welcome &ndash; submit them here &raquo;][add]
 
 [explorer]: http://explorer.okfnlabs.org/
 [csv]: http://data.okfn.org/standards/csv
 [add]: #add
+
+## History
+
+- [Bad Data: real-world examples of how not to do data (2013)]https://okfnlabs.org/blog/2013/11/19/bad-data-examples-how-not-to-do-data.html
+- [Tracking Issues with Data the Simple Way (2013)](https://okfnlabs.org/blog/2013/11/06/tracking-data-issues.html)
+- Original project website: https://okfnlabs.org/projects/bad-data/
 
 ## Examples
 
