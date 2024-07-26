@@ -1,17 +1,17 @@
 ---
-layout: example
-categories: examples
 title: List of Mexican Towns With Population Under 5000
-dataformat: PDF
-datapublisher: Servicio de Administración Tributaria (Mexican IRS)
-dataurl: ftp://ftp2.sat.gob.mx/asistencia_servicio_ftp/publicaciones/rf2010/listado_pob_ieps.pdf
 author: luisdaniel
-authorurl: {Your url - optional}
-authorimage: {A nice (squarish) picture of you - gravatars are perfect. optional}
 image: http://i.imgur.com/SIDx1v6.png
 ---
 
+The Mexican Servicio de Administración Tributaria (Mexican IRS) publishes this PDF file:
+
+ftp://ftp2.sat.gob.mx/asistencia_servicio_ftp/publicaciones/rf2010/listado_pob_ieps.pdf
+
+![](image.png)
+
 # What's Bad?
+
 1. PDF
 2. A 20MB PDF with 7,176 pages.
 3. Values are State, Municpality, and City with their respective number codes. No value for population.
@@ -23,8 +23,11 @@ image: http://i.imgur.com/SIDx1v6.png
 # Screenshots
 
 ## The data
-![Page 1](http://i.imgur.com/4kXSjO1.png)
+
+![Page 1](image-1.png)
 
 ## File lives in this page
+
 [Website](http://www.sat.gob.mx/sitio_internet/informacion_fiscal/reforma_fiscal/157_17222.html)
-![website](http://i.imgur.com/Sou57Kx.png)
+
+![website](image.png)

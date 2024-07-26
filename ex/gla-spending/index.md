@@ -1,21 +1,15 @@
 ---
-layout: example
-categories: examples
 title: Greater London Authority Spending
-dataformat: CSV
-datapublisher: Greater London Authority
-dataurl: https://www.london.gov.uk/sites/default/files/gla_migrate_files_destination/Mayor%27s%20250%20Report%20-%202013-14%20-%20P1%20%20-%20Combined.csv
 author: Rufus Pollock
-authorurl: http://okfn.org/members/rgrp
 ---
 
 This isn't about a single data file but an entire dataset. The dataset is the UK's Greater London Authority spend data:
 
-<http://www.london.gov.uk/mayor-assembly/gla/spending-money-wisely/budget-expenditure-charges/expenditure-over-250>
+http://www.london.gov.uk/mayor-assembly/gla/spending-money-wisely/budget-expenditure-charges/expenditure-over-250
 
 The good news is that, as per UK government policy, the GLA provides regular data on spending over £250, and, furthermore, the data is in simple [CSV files][csv].
 
-[csv]: http://data.okfn.org/standards/csv
+[csv]: http://datahub.io/docs/data-formats/csv
 
 That's where the good news ends. Here are primary issues:
 
