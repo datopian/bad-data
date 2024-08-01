@@ -17,7 +17,7 @@ It is also a good source of practice material for budding data wranglers—those
 
 ## History
 
-- [Bad Data: real-world examples of how not to do data (2013)]https://okfnlabs.org/blog/2013/11/19/bad-data-examples-how-not-to-do-data.html
+- [Bad Data: real-world examples of how not to do data (2013)](https://okfnlabs.org/blog/2013/11/19/bad-data-examples-how-not-to-do-data.html)
 - [Tracking Issues with Data the Simple Way (2013)](https://okfnlabs.org/blog/2013/11/06/tracking-data-issues.html)
 - Original project website: https://okfnlabs.org/projects/bad-data/
 
